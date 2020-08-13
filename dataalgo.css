@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	background: radial-gradient(darkred,black);
+	background-repeat: no-repeat;
+}
+h1,h3,form{
+	text-align: center;
+	color: black;
+}
+form{
+	color: white;
+	font-size: 20px;
+	font-weight: 700;
+
+}
+input,button{
+	border: none;
+	background-color: transparent;
+	color:black;
+	font-size: 20px;
+	font-weight: 600;
+	width:90px;
+	border-bottom: 2px solid black;
+}
+
+option{
+	border: none;
+	background-color: transparent;
+	color:red;
+	font-size: 15px;
+}
+summary{
+	border:none;
+	font-size: 20px;
+}
+summary:hover{
+	background-color: black
+}
